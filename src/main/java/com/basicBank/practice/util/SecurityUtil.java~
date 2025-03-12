@@ -1,0 +1,4 @@
+package com.basicBank.practice.util;
+
+public class SecurityUtil {
+}

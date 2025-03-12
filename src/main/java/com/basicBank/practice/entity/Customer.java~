@@ -1,0 +1,4 @@
+package com.basicBank.practice.entity;
+
+public class Customer {
+}
